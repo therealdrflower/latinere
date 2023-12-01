@@ -7,6 +7,6 @@ Fork this if you want to add more nouns/functionality.
 
 I don't know if the words are correct since ChatGPT just generated them (I don't know them yet).
 
-I believe some of the nouns with some cases are not correct (I believe) so basically the words may not be correctly written.
+The words given may not be entirely correct
 
 The name is a play on words of "Latine legere" meaning "to read in latin".
